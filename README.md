@@ -16,11 +16,17 @@ Awesome VSCode theme for those who code at night
 
 ## Previews
 
-![Preview 1](https://github.com/tsomone/midnight-purple-theme/blob/main/images/preview1.png)
+<p align="center">
+<img src="https://github.com/tsomone/midnight-purple-theme/blob/main/images/preview1.png" alt="Preview 1">
+</p>
 
-![Preview 2](https://github.com/tsomone/midnight-purple-theme/blob/main/images/preview2.png)
+<p align="center">
+<img src="https://github.com/tsomone/midnight-purple-theme/blob/main/images/preview2.png" alt="Preview 2">
+</p>
 
-![Preview 3](https://github.com/tsomone/midnight-purple-theme/blob/main/images/preview3.png)
+<p align="center">
+<img src="https://github.com/tsomone/midnight-purple-theme/blob/main/images/preview3.png" alt="Preview 3">
+</p>
 
 ## Contributions
 
