@@ -4,7 +4,7 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
-      "foreground": "#ff79c6"
+      "foreground": "#ffffff"
     },
     "variable.constant": {
       "foreground": "#bd93f9"
@@ -333,7 +333,7 @@
       "name": "js variable readwrite",
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
-        "foreground": "#ffb86c"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -536,6 +536,14 @@
       "name": "Variables",
       "scope": "variable",
       "settings": {
+        "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "Function argument",
+      "scope": "variable.parameter",
+      "settings": {
+        "fontStyle": "italic",
         "foreground": "#ffb86c"
       }
     },
@@ -550,7 +558,7 @@
       "name": "Language variables",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#8be9fd"
+        "foreground": "#BD93F9"
       }
     },
     {
