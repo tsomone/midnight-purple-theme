@@ -1,9 +1,9 @@
 {
-  "name": "midnight-purple",
-  "displayName": "Midnight Purple",
+  "name": "midnight-purple-2077",
+  "displayName": "Midnight Purple 2077",
   "description": "Awesome midnight purple theme for vscode",
   "version": "1.0.0",
-  "publisher": "cyber samurai",
+  "publisher": "cybersamurai",
   "repository": {
     "type": "git",
     "url": "https://github.com/tsomone/midnight-purple-theme.git"
@@ -24,7 +24,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Midnight Purple",
+        "label": "Midnight Purple 2077",
         "uiTheme": "vs-dark",
         "path": "./themes/Midnight Purple-color-theme.json"
       }
