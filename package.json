@@ -4,6 +4,17 @@
   "description": "Awesome midnight purple theme for vscode",
   "version": "1.0.0",
   "publisher": "cyber samurai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tsomone/midnight-purple-theme.git"
+  },
+  "keywords": [
+    "dark theme",
+    "midnight purple",
+    "midnight",
+    "purple",
+    "cyberpunk"
+  ],
   "engines": {
     "vscode": "^1.72.0"
   },
