@@ -1,16 +1,29 @@
-# midnight-purple README
+# Midnight Purple 2077
 
-## Working with Markdown
+Awesome VSCode theme for those who code at night
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Installation
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Midnight Purple 2077` - find the one by **cyber samurai**.
+3. Click **Install** to install it.
+4. Click **Reload** to reload your editor
+5. Code > Preferences > Color Theme > **Midnight Purple 2077**
 
 ## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- [Marketplace](https://marketplace.visualstudio.com/items?itemName=cybersamurai.midnight-purple-2077)
 
-**Enjoy!**
+<br />
+
+## Previews
+
+TODO
+
+## Contributions
+
+If any issues occur or you have ideas for new improvements, please open up a new [issue](https://github.com/tsomone/midnight-purple-theme/issues).
+
+## Credits
+
+Made with ❤️ by [@tsomone](https://github.com/tsomone) ~ **Happy coding!**
