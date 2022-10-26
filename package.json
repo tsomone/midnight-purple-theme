@@ -1,0 +1,22 @@
+{
+  "name": "midnight-purple",
+  "displayName": "Midnight Purple",
+  "description": "Awesome midnight purple theme for vscode",
+  "version": "1.0.0",
+  "publisher": "cyber samurai",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Purple-color-theme.json"
+      }
+    ]
+  }
+}
