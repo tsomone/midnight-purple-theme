@@ -1,9 +1,10 @@
 {
   "name": "midnight-purple-2077",
   "displayName": "Midnight Purple 2077",
-  "description": "Awesome midnight purple theme for vscode",
-  "version": "1.0.0",
+  "description": "Wake the **** up Samurai, we have a code to burn!",
+  "version": "1.0.1",
   "publisher": "cybersamurai",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/tsomone/midnight-purple-theme.git"
