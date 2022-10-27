@@ -13,6 +13,7 @@ Awesome VSCode theme for those who code at night
 ## For more information
 
 - [Marketplace](https://marketplace.visualstudio.com/items?itemName=cybersamurai.midnight-purple-2077)
+- [Changelogs](https://github.com/tsomone/midnight-purple-theme/blob/main/CHANGELOG.md)
 
 ## Previews
 
