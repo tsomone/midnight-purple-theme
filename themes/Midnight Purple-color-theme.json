@@ -1840,7 +1840,7 @@
     "badge.background": "#613795",
     "badge.foreground": "#ffffff",
     "terminal.foreground": "#f4f4f4",
-    "terminal.selectionBackground": "#6000d741",
+    "terminal.selectionBackground": "#613795",
     "terminalCursor.background": "#613795",
     "terminalCursor.foreground": "#ffffff",
     "terminal.border": "#613795",
